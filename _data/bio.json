@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Guilherme Silva",
-    "label": "Backend Developer",
+    "label": "Software Developer",
     "picture": "https://github.com/glmsilva.png",
     "email": "mail@guilhermesilva.me",
     "phone": "(11) 973-409-396",
@@ -18,7 +18,7 @@
     { "name": "Domain Driven Design" },
     { "name": "Microservices" },
     { "name": "Ruby on Rails" },
-    { "name": "Even-driven archictecture" },
+    { "name": "Event-Driven archictecture" },
     { "name": "PostgreSQL" }
   ],
   "skills": [
