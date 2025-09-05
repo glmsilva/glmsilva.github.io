@@ -40,6 +40,15 @@
       "endDate": "Present",
       "courses": [
       ]
+    },
+     {
+      "institution": "ETEC Taboão da Serra",
+      "area": "Software Development",
+      "studyType": "Technician",
+      "startDate": "2018-07-01",
+      "endDate": "2019-12-20",
+      "courses": [
+      ]
     }
   ],
   "work": [
