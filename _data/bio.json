@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "name": "Guilherme Silva",
+    "label": "Backend Developer",
+    "picture": "https://github.com/glmsilva.png",
+    "email": "mail@guilhermesilva.me",
+    "phone": "(11) 973-409-396",
+    "website": "https://glmsilva.github.io",
+    "summary": "I am a Ruby Software Developer, specialized in backend development.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
@@ -16,28 +16,28 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Domain Driven Design" },
+    { "name": "Microservices" },
+    { "name": "Ruby on Rails" },
+    { "name": "Even-driven archictecture" },
+    { "name": "PostgreSQL" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "Ruby", "Elixir", "Ruby on Rails", "Phoenix",  ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "gcc", "Docker", "AWS", "k6" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Anhanguera Educacional",
+      "area": "Information Systems (expected Spring, 2028)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2024-08-01",
       "endDate": "Present",
       "courses": [
       ]
